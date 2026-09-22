@@ -52,7 +52,8 @@ THIN:RET
 END
 
 ```
-OUTPUT
+OUTPUT<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/45cc8478-d336-42f0-b3f6-6bf042399e01" />
+
 
 (Keil output screenshot can be inserted here)
 
